@@ -1,5 +1,5 @@
 # ZKP-USDC
-Trigger USDC transaction via API from NovaNet's in-browser ZKP 
+Trigger USDC transaction via API from NovaNet's in-browser zero knowledge proofs. 
 
 # ZKP.fun Leaderboard Monitor
 
