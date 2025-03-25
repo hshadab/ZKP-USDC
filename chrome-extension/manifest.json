@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "ZKP.fun Leaderboard Monitor",
+  "version": "1.0",
+  "description": "Monitors refreshes on zkp.fun/leaderboard and triggers a Make.com webhook",
+  "permissions": ["tabs", "webNavigation"],
+  "host_permissions": ["*://zkp.fun/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+}
