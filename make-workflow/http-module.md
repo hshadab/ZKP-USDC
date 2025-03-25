@@ -4,7 +4,7 @@
 - URL: https://api.circle.com/v1/w3s/developer/transactions/transfer
 - Method: POST
 - Headers:
-  - Authorization: Bearer YOUR_API_KEY
+  - Authorization: Bearer TEST_API_KEY:YOUR-API-KEY
   - Content-Type: application/json
 
 ## Body
