@@ -1,7 +1,7 @@
 # Circle API HTTP Module Configuration
 
 ## Request Settings
-- URL: https://api.circle.com/v1/w3s/developer/transactions/transfer
+- URL: [https://api.circle.com/v1/w3s/developer/transactions/transfer](https://developers.circle.com/api-reference/w3s/developer-controlled-wallets/create-developer-transaction-transfer)
 - Method: POST
 - Headers:
   - Authorization: Bearer TEST_API_KEY:YOUR-API-KEY
